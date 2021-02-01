@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;botoneslayout.gridlayut&apos; to &apos;gridlayut_calculadora&apos;&#x0D;&#x0A;- Original project: &apos;INTERFAZgraficas_de_usuarioSwing&apos;&#x0D;&#x0A;- Original element: &apos;botoneslayout.gridlayut&apos;&#x0D;&#x0A;- Renamed element: &apos;botoneslayout.gridlayut_calculadora&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;gridlayut&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;botoneslayout{gridlayut.java[gridlayut" matchStrategy="1" name="gridlayut_calculadora" qualified="false" references="true" similarDeclarations="false" stamp="1539638149838" textual="false" version="1.0"/>
+</session>

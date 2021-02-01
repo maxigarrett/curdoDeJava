@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;tarea_de_clase.JOptionPane&apos; to &apos;joptinpane&apos;&#x0D;&#x0A;- Original project: &apos;tarea_de_clase&apos;&#x0D;&#x0A;- Original element: &apos;tarea_de_clase.JOptionPane&apos;&#x0D;&#x0A;- Renamed element: &apos;tarea_de_clase.joptinpane&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;JOptionPane&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;tarea_de_clase{JOptionPane.java[JOptionPane" matchStrategy="1" name="joptinpane" qualified="false" references="true" similarDeclarations="false" stamp="1536360503798" textual="false" version="1.0"/>
+</session>

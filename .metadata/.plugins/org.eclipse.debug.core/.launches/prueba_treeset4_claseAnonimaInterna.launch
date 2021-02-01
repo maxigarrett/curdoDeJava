@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/COLECCIONES/src/treeset_deLaInterfaz_set/prueba_treeset4_claseAnonimaInterna.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="treeset_deLaInterfaz_set.prueba_treeset4_claseAnonimaInterna"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="COLECCIONES"/>
+</launchConfiguration>

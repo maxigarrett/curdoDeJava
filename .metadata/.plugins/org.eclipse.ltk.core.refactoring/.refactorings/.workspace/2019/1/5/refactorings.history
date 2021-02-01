@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;programacion_threads(hilos)&apos; to &apos;programacionConcurrente_threads(hilos)&apos;&#x0D;&#x0A;- Original element: &apos;programacion_threads(hilos)&apos;&#x0D;&#x0A;- Renamed element: &apos;programacion_threads(hilos)&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;programacion_threads(hilos)&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=programacion_threads\(hilos)" name="programacionConcurrente_threads(hilos)" references="true" stamp="1548951905656" version="1.0"/>
+</session>

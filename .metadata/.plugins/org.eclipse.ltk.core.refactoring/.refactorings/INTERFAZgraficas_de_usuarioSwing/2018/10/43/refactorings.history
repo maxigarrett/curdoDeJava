@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;componenteSwingIntruduTexto.pruebaTexto&apos; to &apos;cuadroConTexto&apos;&#x0D;&#x0A;- Original project: &apos;INTERFAZgraficas_de_usuarioSwing&apos;&#x0D;&#x0A;- Original element: &apos;componenteSwingIntruduTexto.pruebaTexto&apos;&#x0D;&#x0A;- Renamed element: &apos;componenteSwingIntruduTexto.cuadroConTexto&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;pruebaTexto&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;componenteSwingIntruduTexto{pruebaTexto.java[pruebaTexto" matchStrategy="1" name="cuadroConTexto" qualified="false" references="true" similarDeclarations="false" stamp="1540405161893" textual="false" version="1.0"/>
+</session>

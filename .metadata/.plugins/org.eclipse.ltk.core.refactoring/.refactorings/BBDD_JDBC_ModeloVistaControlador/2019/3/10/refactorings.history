@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;productos.java&apos; to &apos;BBDD_JDBC_ModeloVistaControlador/src/modelo&apos;&#x0D;&#x0A;- Original project: &apos;BBDD_JDBC_ModeloVistaControlador&apos;&#x0D;&#x0A;- Destination element: &apos;BBDD_JDBC_ModeloVistaControlador/src/modelo&apos;&#x0D;&#x0A;- Original element: &apos;controlador.productos.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;modelo" element1="/src&lt;controlador{productos.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1551899221304" units="1" version="1.0"/>
+</session>
